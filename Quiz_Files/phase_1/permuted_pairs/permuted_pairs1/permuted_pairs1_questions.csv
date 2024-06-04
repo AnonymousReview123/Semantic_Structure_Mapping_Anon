@@ -1,0 +1,16 @@
+"square => E K C
+oval => C % K % E
+rectangle => E % K % C
+circle => "
+"king => C C C
+queen => c c c
+man => C C
+woman => "
+"pink => *
+black => } ^ {
+gray => ^
+red => "
+"puppy => Q Q Z Z I I
+kitten => Q Q Z Z I I Q Q Z Z I I
+cat => Q Z I Q Z I
+dog => "

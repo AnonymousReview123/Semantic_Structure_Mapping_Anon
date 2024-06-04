@@ -1,0 +1,32 @@
+"pants => H # H
+glove => X # X
+torso => V
+foot => Z
+head => M
+shirt => V # V
+hat => 
+"
+"screwdriver => P
+nut => [ I ]
+nail => [ D ]
+leaf => [ L ]
+tree => [ Y ]
+wrench => I
+axe => 
+"
+"yes => M
+up => B
+north => C
+east => H
+left => W
+down => B ; ;
+south => 
+"
+"piglet => D D D
+dog => X
+pig => D
+calf => P P P
+kitten => E E E
+chick => N N N
+cow => 
+"

@@ -1,0 +1,32 @@
+"screwdriver => J
+axe => A
+hammer => H
+wrench => O
+nut => . . O .
+leaf => . . K .
+rake => 
+"
+"left => T
+north => P
+down => V V V
+no => O O O
+yes => O
+east => C
+west => 
+"
+"calf => % F
+chicken => V
+cat => T
+chick => % V
+puppy => % P
+pig => W
+dog => 
+"
+"head => J
+legs => K
+shirt => [ X ]
+hand => R
+glove => [ R ]
+foot => G
+pants => 
+"
